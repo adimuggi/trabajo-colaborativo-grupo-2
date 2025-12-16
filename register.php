@@ -162,7 +162,7 @@
 
         <button type="submit">Registrarse</button>
     </form>
-
+<button type="submit">Registrarse</button>
     <?php
     }
     ?>
