@@ -111,7 +111,7 @@
 </header>
 
 <main>
-    <h1>Bienvenido al Proyecto Web Colaborativo</h1>
+    <h1>Bienvenido al Proyecto  Colaborativo</h1>
     <p>Este sitio web ha sido desarrollado como parte de un proyecto académico en la carrera de Arquitectura de Plataformas de Servicios Tecnológicos de la Información del Instituto Superior Tecnológico Público "Daniel Alcides Carrión". El proyecto integra conocimientos en diseño web, programación y gestión de proyectos colaborativos utilizando herramientas modernas como GitHub.</p>
     
     <p>Explora las diferentes secciones del sitio para conocer más sobre nuestro equipo, contactarnos o registrarte en nuestra plataforma. Este trabajo refleja el compromiso de los estudiantes con la excelencia académica y la aplicación práctica de las tecnologías de la información.</p>
