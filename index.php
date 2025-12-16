@@ -91,7 +91,7 @@
             background-color: #4caf50;
         }
         .dark footer {
-            background-color: #102027;
+            background-color: #c0c061ff;
         }
     </style>
 </head>
