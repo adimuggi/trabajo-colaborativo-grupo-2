@@ -44,7 +44,7 @@
             text-align: center;
         }
         h1 {
-            color: #6a1b9a;
+            color: #2e1b9aff;
         }
         footer {
             background-color: #37474f;
