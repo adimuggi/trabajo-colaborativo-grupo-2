@@ -6,14 +6,14 @@
     <link rel="stylesheet" href="css/estilos.css">
     <style>
         body {
-            background-color: #e0f7fa;
+            background-color: #fae0f4ff;
             color: #01579b;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #00bcd4;
+            background-color: #00d42eff;
             padding: 10px;
             text-align: center;
         }
