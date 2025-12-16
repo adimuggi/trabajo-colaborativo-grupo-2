@@ -63,7 +63,7 @@
             background-color: #45a049;
         }
         footer {
-            background-color: #d42c2cff;
+            background-color: #4dbed2ff;
             color: white;
             text-align: center;
             padding: 10px;
@@ -121,7 +121,7 @@
 </main>
 
 <footer>
-    <p>© 2025 Proyecto Web Colaborativo</p>
+    <p>copyraid Aldair MUGGI PULIDO</p>
 </footer>
 
 <script src="js/funciones.js"></script>
