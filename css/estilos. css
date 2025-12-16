@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: #f5f5f5;
+    background: rgba(236, 31, 31, 1);
 }
 
 nav {
@@ -19,6 +19,7 @@ nav ul li a {
     color: white;
     text-decoration: none;
     padding: 8px 15px;
+    transition: background 0.3s ease;
 }
 
 nav ul li a.active,
@@ -51,10 +52,30 @@ form input {
     margin-bottom: 10px;
 }
 
+textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 100px;
+}
+
 button {
     background: orange;
     border: none;
     padding: 10px;
     color: white;
     cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: darkorange;
+}
+
+body.dark {
+    background: #16bf54ff;
+    color: white;
+}
+
+body.dark main {
+    background: #333;
 }
