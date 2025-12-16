@@ -13,7 +13,7 @@
             padding: 0;
         }
         header {
-            background-color: #4caf50;
+            background-color: #3c1f5eff;
             padding: 10px;
             text-align: center;
         }
@@ -139,7 +139,7 @@
 </header>
 
 <main>
-    <h1>Formulario de Registro</h1>
+    <h1>Formulario web de Registro</h1>
     <p>Como parte de nuestro proyecto académico en la carrera de Arquitectura de Plataformas de Servicios Tecnológicos de la Información, ofrecemos un formulario de registro para demostrar funcionalidades básicas de procesamiento de datos en aplicaciones web. Regístrate para acceder a futuras actualizaciones o para fines demostrativos del proyecto.</p>
 
     <?php

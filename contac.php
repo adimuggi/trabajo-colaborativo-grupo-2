@@ -13,7 +13,7 @@
             padding: 0;
         }
         header {
-            background-color: #ff9800;
+            background-color: #1acc38ff;
             padding: 10px;
             text-align: center;
         }
@@ -139,7 +139,7 @@
 </header>
 
 <main>
-    <h1>Contáctos</h1>
+    <h1>Contáctanos</h1>
     <p>Si tienes preguntas sobre nuestro proyecto académico, deseas colaborar o necesitas más información sobre la carrera de Arquitectura de Plataformas de Servicios Tecnológicos de la Información en el Instituto Superior Tecnológico Público "Daniel Alcides Carrión", no dudes en ponerte en contacto con nosotros. Estamos disponibles para discutir aspectos técnicos, metodológicos o cualquier consulta relacionada con el desarrollo de este sitio web.</p>
     
     <p>📧 Correo: ejemplo@correo.com</p>
