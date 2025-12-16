@@ -47,7 +47,7 @@
             color: #2e1b9aff;
         }
         footer {
-            background-color: #37474f;
+            background-color: #47d953ff;
             color: white;
             text-align: center;
             padding: 10px;
