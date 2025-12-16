@@ -66,7 +66,7 @@
             border-radius: 5px;
         }
         button {
-            background-color: #66bb6a;
+            background-color: #bb669fff;
             color: white;
             border: none;
             padding: 10px 20px;
@@ -160,7 +160,7 @@
         <label>Contraseña:</label>
         <input type="password" name="pass" required>
 
-        <button type="submit">Registrarse</button>
+        <button type="submit">guardar</button>
     </form>
 
     <?php
