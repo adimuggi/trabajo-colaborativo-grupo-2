@@ -66,7 +66,7 @@
             border-radius: 5px;
         }
         button {
-            background-color: #bb669fff;
+            background-color: #17a4cfff;
             color: white;
             border: none;
             padding: 10px 20px;
