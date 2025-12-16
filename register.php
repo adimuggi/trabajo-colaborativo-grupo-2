@@ -66,7 +66,7 @@
             border-radius: 5px;
         }
         button {
-            background-color: #66bb6a;
+            background-color: #bb669fff;
             color: white;
             border: none;
             padding: 10px 20px;
@@ -75,7 +75,7 @@
             margin-top: 10px;
         }
         button:hover {
-            background-color: #4caf50;
+            background-color: #3c9bdaff;
         }
         footer {
             background-color: #37474f;
@@ -139,7 +139,7 @@
 </header>
 
 <main>
-    <h1>Formulario de Registro</h1>
+    <h1>Formulario web de Registro</h1>
     <p>Como parte de nuestro proyecto académico en la carrera de Arquitectura de Plataformas de Servicios Tecnológicos de la Información, ofrecemos un formulario de registro para demostrar funcionalidades básicas de procesamiento de datos en aplicaciones web. Regístrate para acceder a futuras actualizaciones o para fines demostrativos del proyecto.</p>
 
     <?php
@@ -160,7 +160,7 @@
         <label>Contraseña:</label>
         <input type="password" name="pass" required>
 
-        <button type="submit">Registrarse</button>
+        <button type="submit">guardar</button>
     </form>
 <button type="submit">Registrarse</button>
     <?php
