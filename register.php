@@ -2,18 +2,18 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>guardar</title>
+    <title>Registro</title>
     <link rel="stylesheet" href="css/estilos.css">
     <style>
         body {
             background-color: #e8f5e8;
-            color: #11b2ceff;
+            color: #2e7d32;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #3c1f5eff;
+            background-color: #4caf50;
             padding: 10px;
             text-align: center;
         }
@@ -75,7 +75,7 @@
             margin-top: 10px;
         }
         button:hover {
-            background-color: #4caf50;
+            background-color: #3c9bdaff;
         }
         footer {
             background-color: #37474f;
