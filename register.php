@@ -162,7 +162,7 @@
 
         <button type="submit">guardar</button>
     </form>
-
+<button type="submit">Registrarse</button>
     <?php
     }
     ?>
