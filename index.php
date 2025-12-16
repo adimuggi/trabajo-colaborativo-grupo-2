@@ -6,14 +6,14 @@
     <link rel="stylesheet" href="css/estilos.css">
     <style>
         body {
-            background-color: #e0f7fa;
-            color: #01579b;
+            background-color: #fae0f4ff;
+            color: #243caaff;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #00bcd4;
+            background-color: #00d42eff;
             padding: 10px;
             text-align: center;
         }
@@ -49,7 +49,7 @@
             text-align: center;
         }
         h1 {
-            color: #00796b;
+            color: #ee2bbaff;
         }
         button {
             background-color: #4caf50;
@@ -63,7 +63,7 @@
             background-color: #45a049;
         }
         footer {
-            background-color: #37474f;
+            background-color: #d42c2cff;
             color: white;
             text-align: center;
             padding: 10px;
@@ -91,7 +91,7 @@
             background-color: #4caf50;
         }
         .dark footer {
-            background-color: #102027;
+            background-color: #c0c061ff;
         }
     </style>
 </head>
@@ -111,7 +111,11 @@
 </header>
 
 <main>
+<<<<<<< HEAD
     <h1>Bienvenido al Proyecto  Colaborativo</h1>
+=======
+    <h1>Bienvenido</h1>
+>>>>>>> 9df79bf3f226e427b71b169d84d35e9238eee8a6
     <p>Este sitio web ha sido desarrollado como parte de un proyecto académico en la carrera de Arquitectura de Plataformas de Servicios Tecnológicos de la Información del Instituto Superior Tecnológico Público "Daniel Alcides Carrión". El proyecto integra conocimientos en diseño web, programación y gestión de proyectos colaborativos utilizando herramientas modernas como GitHub.</p>
     
     <p>Explora las diferentes secciones del sitio para conocer más sobre nuestro equipo, contactarnos o registrarte en nuestra plataforma. Este trabajo refleja el compromiso de los estudiantes con la excelencia académica y la aplicación práctica de las tecnologías de la información.</p>

@@ -2,12 +2,12 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Registro</title>
+    <title>guardar</title>
     <link rel="stylesheet" href="css/estilos.css">
     <style>
         body {
             background-color: #e8f5e8;
-            color: #2e7d32;
+            color: #11b2ceff;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;

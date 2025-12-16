@@ -7,13 +7,13 @@
     <style>
         body {
             background-color: #f3e5f5;
-            color: #4a148c;
+            color: #cbd747ff;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #9c27b0;
+            background-color: #e14a4aff;
             padding: 10px;
             text-align: center;
         }
@@ -44,7 +44,7 @@
             text-align: center;
         }
         h1 {
-            color: #6a1b9a;
+            color: #2e1b9aff;
         }
         footer {
             background-color: #37474f;

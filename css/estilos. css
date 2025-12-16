@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: rgba(236, 31, 31, 1);
+    background: rgba(162, 15, 131, 1);
 }
 
 nav {
@@ -72,7 +72,7 @@ button:hover {
 }
 
 body.dark {
-    background: #16bf54ff;
+    background: #d3752eff;
     color: white;
 }
 
