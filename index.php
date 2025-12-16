@@ -49,7 +49,7 @@
             text-align: center;
         }
         h1 {
-            color: #00796b;
+            color: #ee2bbaff;
         }
         button {
             background-color: #4caf50;
