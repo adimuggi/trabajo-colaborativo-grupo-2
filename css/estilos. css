@@ -72,7 +72,7 @@ button:hover {
 }
 
 body.dark {
-    background: #222;
+    background: #16bf54ff;
     color: white;
 }
 
